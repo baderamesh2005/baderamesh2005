@@ -84,12 +84,37 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baderamesh2005&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderamesh2005&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baderamesh2005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderamesh2005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=baderamesh2005&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baderamesh2005&theme=tokyonight&no-frame=true&row=2&column=6" />
 </p>
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baderamesh2005&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+## 💭 Personal Motto
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=Trust%20the%20Process%20%F0%9F%92%99&fontSize=24&fontColor=ffffff&animation=fadeIn&desc=If%20you%20think,%20you%20can...%20%F0%9F%9A%80&descAlignY=65"/>
+</p>
+
+---
 ## 🐍 Contribution Snake
 
 <p align="center">
