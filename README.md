@@ -38,7 +38,8 @@
 
 ---
 <h2 align="left">
-  Skills <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=800&color=00BFFF&width=100&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E" />
+  Skills
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=800&color=00BFFF&width=70&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E"/>
 </h2>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:1E90FF&height=4&section=header"/>
