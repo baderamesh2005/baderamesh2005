@@ -43,6 +43,10 @@
 </h2>
 
 <p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:1E90FF&height=3&section=header"/>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
