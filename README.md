@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=👋+Hello+Fellow+Tech+Explorers!" />
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 </p>
