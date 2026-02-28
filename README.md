@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=50"/>
 </p> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Git_hub+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python&Java+Developer"/>
 </p>
 
 ## 👨‍💻 About Me
