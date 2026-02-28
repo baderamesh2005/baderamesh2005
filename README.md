@@ -7,18 +7,20 @@
 ---
 
 ## 👨‍💻 About Me
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
 </p>
 
-<<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramesh-bade-7272a3362">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME">
+  <a href="https://www.kaggle.com/rameshbade">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
+
 🎓 Aspiring AI Engineer  
 🌟 Passionate about Python and Java  
 💡 Building real-world projects with ML and logical thinking  
