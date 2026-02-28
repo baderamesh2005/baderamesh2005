@@ -103,9 +103,10 @@
 ## 💭 Personal Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Trust+The+Process+⚡;Think+Deep,+Build+Bold+🚀;If+You+Think,+You+Can!+💙" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3C72,100:2A5298&height=130&section=header&text=Trust%20The%20Process%20💎&fontSize=30&fontColor=ffffff&animation=twinkling&desc=Consistency%20Turns%20Dreams%20Into%20Reality%20🚀&descAlignY=65"/>
 </p>
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
