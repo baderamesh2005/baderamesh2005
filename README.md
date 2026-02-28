@@ -58,4 +58,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/baderamesh2005/baderamesh2005/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/baderamesh2005/baderamesh2005/output/github-contribution-grid-snake.svg)
