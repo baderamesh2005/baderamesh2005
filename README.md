@@ -13,6 +13,17 @@
 💡 I build projects with emotion & logic  
 
 ---
+## 📅 My Engineering Journey
+
+🎓 2023 —  Entered the world of Engineering (AI & DS)   
+💻 2023 — Took my first real steps into coding C 
+🚀 2024 — Built projects and discovered my love for python & Machine Learning  
+🧠 2025 — Exploring Deep Learning & intelligent systems  
+🎯 2026 — On a mission to become a skilled AI Engineer  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
 
 ## 🛠 Tech Stack
 
