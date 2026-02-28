@@ -22,9 +22,8 @@
 🎯 2026 — On a mission to become a skilled AI Engineer  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/8l0ZJ8Gk4WnM6q2K8F/giphy.gif" width="400"/>
 </p>
-
 ## 🛠 Tech Stack
 
 <p align="center">
