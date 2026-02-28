@@ -41,6 +41,7 @@
   <span style="font-size:28px; font-weight:600;">
     Skills
   </span>
+  
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1500&pause=700&color=00BFFF&width=120&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E"
     style="margin-top:4px;"
