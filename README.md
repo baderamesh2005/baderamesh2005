@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vLeft=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
 </p>
 
 <p align="left">
