@@ -5,12 +5,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 ---
+
 ## 👨‍💻 About Me
 
 🎓 Aspiring AI Engineer  
-🌟 Focused on Machine Learning & SQL  
-🐍 Passionate about Python & Java  
-💡 I build real-world projects with ML and logic  
+🌟 Focused on Machine Learning & Data-driven solutions  
+🐍 Passionate about Python and Java  
+💡 Building real-world projects with ML and logical thinking  
 
 ---
 
