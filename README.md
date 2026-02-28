@@ -100,18 +100,10 @@
 </p>
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baderamesh2005&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
 ## 💭 Personal Motto
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=120&section=header&text=Trust%20the%20Process%20%F0%9F%92%99&fontSize=24&fontColor=ffffff&animation=fadeIn&desc=If%20you%20think,%20you%20can...%20%F0%9F%9A%80&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Trust%20The%20Process%20⚡&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Think%20Deep.%20Build%20Bold.%20Become%20Unstoppable.%20🚀&descAlignY=60&descAlign=50"/>
 </p>
 
 ---
