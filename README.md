@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ramesh-bade-7272a3362">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
