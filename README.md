@@ -2,24 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=50"/>
 </p> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Git_hub+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python&Java+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Git_hub+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python&ampJava+Developer"/>
 </p>
 
 ## 👨‍💻 About Me
 
 🎓 Aspiring AI Engineer 
-🌟 Focused on Machine Learning & SQL 
-🐍 Passionate about Python & Java 
+🌟 Focused on Machine Learning &amp SQL 
+🐍 Passionate about Python &amp Java 
 💡 I build Real-World projects with Ml and Logic  
 
 ---
 ## 📅 My Engineering Journey
 
-🎓 2023 —  Entered the world of Engineering (AI & DS)   
+🎓 2023 —  Entered the world of Engineering (AI &amp DS)   
 💻 2023 — Took my first real steps into coding C 
 
-🚀 2024 — Built projects and discovered my love for python & Machine Learning  
-🧠 2025 — Exploring Deep Learning & intelligent systems  
+🚀 2024 — Built projects and discovered my love for python &amp Machine Learning  
+🧠 2025 — Exploring Deep Learning &amp intelligent systems  
 🎯 2026 — On a mission to become a skilled AI Engineer  
 
 <p align="center">
