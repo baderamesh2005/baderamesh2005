@@ -7,10 +7,24 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramesh-bade-7272a3362" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ramesh%20Bade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.kaggle.com/rameshbade" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Ramesh%20Bade-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+</p>
 🎓 Aspiring AI Engineer  
-🌟 Focused on Machine Learning & Data-driven solutions  
-🐍 Passionate about Python and Java  
+🌟 Passionate about Python and Java  
 💡 Building real-world projects with ML and logical thinking  
 
 ---
@@ -23,12 +37,7 @@
 🧠 2025 — Exploring Deep Learning & intelligent systems  
 🎯 2026 — On a mission to become a skilled AI Engineer  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+Java+Developer" />
-</p>
+
 ---
 
 ## 🛠 Tech Stack
