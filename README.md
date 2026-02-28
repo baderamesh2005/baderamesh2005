@@ -7,9 +7,7 @@
 
 ---
 ## 👨‍💻 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+☕+Java+Developer" />
-</p>
+
 🎓 Aspiring AI Engineer  
 🌟 Focused on Machine Learning & SQL  
 🐍 Passionate about Python & Java  
@@ -28,7 +26,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Welcome+to+my+GitHub+Profile!;🤖+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+Enthusiast;🐍+Python+%26+☕+Java+Developer" />
+</p>
 ---
 
 ## 🛠 Tech Stack
