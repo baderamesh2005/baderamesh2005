@@ -100,12 +100,11 @@
 </p>
 
 ---
-## 💭 Personal Motto
+## 💭 Personal Philosophy
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Trust%20The%20Process%20⚡&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Think%20Deep.%20Build%20Bold.%20Become%20Unstoppable.%20🚀&descAlignY=60&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Trust+The+Process+⚡;Think+Deep,+Build+Bold+🚀;If+You+Think,+You+Can!+💙" />
 </p>
-
 ---
 ## 🐍 Contribution Snake
 
