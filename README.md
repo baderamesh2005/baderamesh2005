@@ -1,22 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=👋+Hello+Fellow+Tech+Explorers!" />
-</p>
-<h2 align="center">
-  👋 Hello Fellow Tech Explorers!
-</h2>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python+%26+Java+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=👋+Hello+Fellow+Tech+Explorers!" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python+%26+Java+Developer" />
+</p>
 🎓 Aspiring AI Engineer  
 🌟 Focused on Machine Learning & SQL  
 🐍 Passionate about Python & Java  
