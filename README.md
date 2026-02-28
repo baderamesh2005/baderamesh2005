@@ -20,7 +20,9 @@
 🚀 2024 — Built projects and discovered my love for python & Machine Learning  
 🧠 2025 — Exploring Deep Learning & intelligent systems  
 🎯 2026 — On a mission to become a skilled AI Engineer  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
