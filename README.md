@@ -1,80 +1,39 @@
-<!-- WELCOME BANNER -->
-
-<h1 align="center">Welcome to My Profile 👋</h1>
-
-<h2 align="center">
-Hi, I'm Ramesh Bade  
-</h2>
-
 <p align="center">
-AI & Data Science Engineer | Machine Learning Enthusiast
-</p>
-
----
-
-<!-- TYPING ANIMATION -->
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:1E90FF&height=200&section=header&text=Ramesh%20Bade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=55&descAlign=50"/>
+</p> 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python+Developer;Future+AI+Innovator&center=true&width=600&height=50&color=0A66C2&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile!;AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;Python+Developer"/>
 </p>
-
----
-
-<!-- ANIMATED CODING GIF -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
 🎓 Aspiring Data Scientist  
-🌟 Currently focusing on Machine Learning  
-✨ Passionate about Python  
-💡 Fun Fact: I get emotionally attached to my projects  
+🌟 Focused on Machine Learning  
+🐍 Passionate about Python  
+💡 I build projects with emotion & logic  
 
 ---
 
-## 📅 My Coding Journey
-
-📌 2021 – Started coding with C  
-📌 2023 – Built my first Python project  
-📌 2024 – Became a Machine Learning enthusiast  
-📌 2026 – Working towards becoming AI Expert 🚀  
-
----
-
-## 🛠 Technical Skills
-
-**Languages:**  
-Python • C • Java • HTML • CSS  
-
-**Core Areas:**  
-Machine Learning • Deep Learning • Data Structures  
-
-**Tools:**  
-TensorFlow • PyTorch • Git • GitHub • MySQL  
-
----
-
-## 📊 GitHub Overview
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baderamesh2005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderamesh2005&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,tensorflow,pytorch,git,github,mysql,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-📧 rameshbade300@gmail.com  
-🔗 https://leetcode.com/u/baderamesh2005/
+🔹 AI-Based Invoice Management System  
+🔹 Vehicle Dynamics MATLAB Simulation  
+🔹 Cloud VM Consolidation  
+🔹 Machine Learning Projects  
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-⭐ <i>"Consistency builds strong careers."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=baderamesh2005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderamesh2005&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
