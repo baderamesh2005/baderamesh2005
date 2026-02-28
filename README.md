@@ -38,8 +38,7 @@
 
 ---
 <h2 align="left">
-  Skills 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=800&color=00BFFF&width=100&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E" />
+  Skills <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=800&color=00BFFF&width=100&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E" />
 </h2>
 
 <p align="left">
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-2ECC71?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
