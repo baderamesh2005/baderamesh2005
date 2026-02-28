@@ -40,11 +40,9 @@
 <h2 align="left">
   Skills <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=800&color=00BFFF&width=100&lines=%3C%2F%3E;%3C%3E;%3C%2F%3E" />
 </h2>
-
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:1E90FF&height=4&section=header"/>
 </p>
-
 <!-- ===== DATA & AI ===== -->
 
 <p align="left">
@@ -68,7 +66,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
----
+
 
 ## 🚀 Featured Projects
 
