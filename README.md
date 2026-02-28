@@ -37,3 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=baderamesh2005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baderamesh2005&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/baderamesh2005/baderamesh2005/blob/output/github-contribution-grid-snake.svg)
