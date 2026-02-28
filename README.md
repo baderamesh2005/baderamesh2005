@@ -7,16 +7,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 Aspiring Data Scientist  
-🌟 Focused on Machine Learning  
-🐍 Passionate about Python  
-💡 I build projects with emotion & logic  
+🎓 Aspiring AI Engineer 
+🌟 Focused on Machine Learning & SQL 
+🐍 Passionate about Python & Java 
+💡 I build Real-World projects with Ml and Logic  
 
 ---
 ## 📅 My Engineering Journey
 
 🎓 2023 —  Entered the world of Engineering (AI & DS)   
 💻 2023 — Took my first real steps into coding C 
+
 🚀 2024 — Built projects and discovered my love for python & Machine Learning  
 🧠 2025 — Exploring Deep Learning & intelligent systems  
 🎯 2026 — On a mission to become a skilled AI Engineer  
